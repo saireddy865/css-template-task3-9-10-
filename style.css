@@ -1,0 +1,37 @@
+section {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+    margin-left: 10px;
+}
+img {
+    width: 100%;
+}
+header {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.item1{
+margin-left: 1000px;
+}
+.item2,.item3{
+    margin-left: 20px;
+}
+main {
+    margin: 0px 100px;
+}
+h2 {
+    font-size: 20px;
+    font-weight: 100;
+}
+p {
+    font-size: px;
+    font-weight: 100;
+}
+button{
+    text-align:center;
+    width: 100%;
+
+}
